@@ -1,1 +1,5 @@
 # til
+
+## JS
+### react 
+getDerivedStateFromProps
